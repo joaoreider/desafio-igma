@@ -120,6 +120,9 @@ python manage.py runserver
 ```
 
 6. Acesse a página da API em http://127.0.0.1:8000/
+*Utilize as credenciais:
+username = admin
+senha = admin*
 
 
 ## :computer: Testes
